@@ -15,7 +15,7 @@ Jsme nová organizace, která se teprve rozjíždí, a zatím nemáme žádné a
 Neváhejte nás kontaktovat s dotazy, návrhy nebo pro spolupráci:
 
 - [Web](https://pivoneers.eu)
-- [Kontaktujte nás](mailto:info@pivoneers.eu)
+- [Kontaktujte nás](mailto:contact_us@pivoneers.eu)
 
 ## 📚 Licence 
 
